@@ -2,6 +2,8 @@ RENCANA PROJECT LANA
 
 -bikin aplikasi password generator
   pakai library random
+-bikin system monitor sederhana
+  pakai library os
 -bikin aplikasi color picker
   pakai library tkinter
 -bikin ai chatbot sederhana
