@@ -5,6 +5,8 @@ RENCANA PROJECT LANA
 -bikin system monitor sederhana
   pakai library os
 -bikin aplikasi color picker
-  pakai library tkinter
+  ^ pakai library tkinter
+  ^ nanti akan keluar otput warna dalam berbagai tipe
+  ^ ada tombol copy pada setiap tipe
 -bikin ai chatbot sederhana
   pakai library pytorch
