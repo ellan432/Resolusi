@@ -8,5 +8,6 @@ RENCANA PROJECT LANA
   ^ pakai library tkinter
   ^ nanti akan keluar otput warna dalam berbagai tipe
   ^ ada tombol copy pada setiap tipe
+  ^ menambahkan fitur upload gambar agar bisa di copy warnanya
 -bikin ai chatbot sederhana
   pakai library pytorch
