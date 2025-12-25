@@ -1,0 +1,5 @@
+RENCANA PROJECT LANA
+
+-bikin aplikasi password generator
+-bikin aplikasi color picker
+-bikin ai chatbot sederhana
