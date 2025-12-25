@@ -1,0 +1,4 @@
+resolusi
+-bikin aplikasi password generator
+-bikin aplikasi text editor clone
+-bikin chatbot ai sederhaan
