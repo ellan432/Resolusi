@@ -1,7 +1,9 @@
 RENCANA PROJECT LANA
 
 -bikin aplikasi password generator
-  pakai library random
+  ^ pakai library random
+  ^ user bisa input berapa panjang pasword
+  ^ user bisa input apakah pasword hanya mengandung huruf, symbol, atau semuanya
 -bikin system monitor sederhana
   pakai library os
 -bikin aplikasi color picker
