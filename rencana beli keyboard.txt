@@ -1,6 +1,6 @@
 RENCANA BELI KEYBOARD
 
--type :
--ukuran :
--wire/wireles :
--kisaran harga :
+-type : tectile
+-ukuran : besar
+-wire/wireles : wire
+-kisaran harga : 30-50
